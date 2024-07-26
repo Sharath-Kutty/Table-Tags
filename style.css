@@ -1,0 +1,51 @@
+*
+{
+    margin:0;
+    padding:0;
+    font-family: Arial;
+}
+h3 a{
+    text-align: center;
+    margin-left: 490px;
+}
+
+.container, td{
+   
+    color: aliceblue;
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding:10px 10px;
+    width: 600px;
+    margin-left: 350px;
+    margin-top: 5%;
+    
+}
+
+
+
+.n1{background-color: rgb(4, 92, 82);}
+.n2{ background-color: brown;}
+.n3{background-color: rgb(43, 108, 108);}
+.n4{background-color: blue;}
+.n5{background-color: darkgreen;}
+.n6{background-color: rgb(45, 2, 2);}
+.n7{background-color: orange;}
+.n8{background-color: rgb(10, 10, 80);}
+.n9{background-color: palevioletred;}
+
+.n-1{background-color: rgb(4, 92, 82);}
+.n-2{ background-color: brown;}
+.n-3{background-color: rgb(43, 108, 108);}
+.n-4{background-color: blue;}
+.n-5{background-color: darkgreen;}
+.n-6{background-color: rgb(45, 2, 2);}
+.n-7{background-color: orange;}
+.n-8{background-color: rgb(10, 10, 80);}
+.n-9{background-color: palevioletred;}
+
+.n-1, .n-2, .n-3, .n-4, .n-5, .n-6, .n-7, .n-8, .n-9
+{
+    cursor: pointer;
+
+}
+
